@@ -1,0 +1,15 @@
+/*Seção home*/
+#home {
+	background: #d1d1d1;
+	color: rgb(3, 3, 3);
+}
+/* Borda */
+.caixa {
+	padding: 60px 0px;
+	border-bottom: 1px solid #3333339a;
+}
+
+/* Rodapé */
+footer p a {
+	margin: 5px 15px;
+}
